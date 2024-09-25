@@ -1,2 +1,1 @@
-# DataScience_Prj
-House Price Prediction
+# DataScience_House Price Prediction
